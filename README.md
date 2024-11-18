@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi I can do javascript and python I guess. I'll learn Lisp eventually too.
+Hi I like to program in Zig. I can also use javascript and python I guess.
